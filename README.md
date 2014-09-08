@@ -4,7 +4,7 @@ thermoyomiage
 tts + thermomitor... your raspi reads out the current temperatures and humidity in Japanese.
 
 
-preparation
+#preparation
 
 hardware:
 raspberry pi model B(or any similar sorts of Debian linux PC with USB)
@@ -14,6 +14,12 @@ compact speaker()
 software:
 apache2
 AquesTalkPi
+
+
+#what it does
+* accumulates temperature and humidity data per 15 minutes
+* reads out news from yahoo.co.jp headline
+* reads out the schedule of today from google calendar
 
 
 acknowledgements
