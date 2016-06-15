@@ -8,6 +8,7 @@ tts + thermomitor... your raspi reads out the current temperatures and humidity 
 
 hardware:
 raspberry pi model B(or any similar sorts of Debian linux PC with USB)
+
 USB thermometer(http://strawberry-linux.com/catalog/items?code=52001)
 compact speaker()
 
@@ -22,7 +23,8 @@ AquesTalkPi
 * reads out the schedule of today from google calendar
 
 
-acknowledgements
+#acknowledgements
 
 How to use AquesTTS for Raspberry Pi...http://blog-yama.a-quest.com/?eid=970157
+
 How to use thermometer ... http://www.infiniteloop.co.jp/blog/2013/02/raspberrypitem/
